@@ -1,1 +1,1 @@
-theme: "lanyon"
+gem "lanyon"
